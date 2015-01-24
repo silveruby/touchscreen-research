@@ -1,0 +1,92 @@
+TPrototype1
+v7
+r1
+cCheck dependencies
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/English.lproj/menuList.xml
+c000000004D977B2C00000000000001AD
+t1301773100
+s429
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib
+c000000004D71AB7400000000000077EC
+t1299295092
+s30700
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_aquarium.png
+c000000004D5596B6000000000012E8C4
+t1297454774
+s1239236
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_menu.png
+c000000004D558CB50000000000001115
+t1297452213
+s4373
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/English.lproj/menuList.xml
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/bg_aquarium.png
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/bg_menu.png
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/img_btn.png
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/img_btn.png
+c000000004D558EE600000000000014A2
+t1297452774
+s5282
+
+NPrototype1-Info.plist
+c000000004D55924700000000000004D6
+t1297453639
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323492122#323492122#0(99"[BEROR]No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).1(4@91"No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).323492122#18446744073709551615#0#0(1@0"0(0#1#0"8615679168#0"0#
+
+CCompileXIB "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib"
+r0
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/English.lproj/menuList.xml English.lproj/menuList.xml
+r0
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/bg_aquarium.png bg_aquarium.png
+r0
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/bg_menu.png bg_menu.png
+r0
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/img_btn.png img_btn.png
+r0
+
+CProcessInfoPlistFile "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist" Prototype1-Info.plist
+r0
+
+CTouch "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app"
+r0
+

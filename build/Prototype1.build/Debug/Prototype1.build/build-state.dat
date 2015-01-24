@@ -1,0 +1,517 @@
+TPrototype1
+v7
+r0
+t323493004.745692
+cCheck dependencies
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTask.h
+c000000004C23AA060000000000000828
+t1277405702
+s2088
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLDTD.h
+c000000004C23AA060000000000000F85
+t1277405702
+s3973
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLDTDNode.h
+c000000004C23AA060000000000000C26
+t1277405702
+s3110
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLDocument.h
+c000000004C23AA060000000000001DE3
+t1277405702
+s7651
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLElement.h
+c000000004C23AA060000000000001674
+t1277405702
+s5748
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLNode.h
+c000000004C23AA060000000000002CC1
+t1277405702
+s11457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLNodeOptions.h
+c000000004C23AA060000000000000EA8
+t1277405702
+s3752
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h
+c000000004C23AA060000000000002D17
+t1277405702
+s11543
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1AppDelegate.m
+c000000004D71A41B00000000000007CE
+t1299293211
+s1998
+i"Prototype1AppDelegate.h"
+i"Prototype1ViewController.h"
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1ViewController.m
+c000000004D9781A5000000000000082E
+t1301774757
+s2094
+i<Foundation/Foundation.h>
+i"Prototype1ViewController.h"
+i"MenuXMLParser.h"
+i"TreeBasedXML.h"
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../MenuXMLParser.h
+c000000004D76FC8B00000000000002AB
+t1299643531
+s683
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../MenuXMLParser.m
+c000000004D7797680000000000000A43
+t1299683176
+s2627
+i"MenuXMLParser.h"
+i"SelectionXML.h"
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../SelectionXML.m
+c000000004D76E7C70000000000000159
+t1299638215
+s345
+i"SelectionXML.h"
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/Prototype1AppDelegate.h
+c000000004D55924700000000000001E9
+t1297453639
+s489
+i<UIKit/UIKit.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/Prototype1ViewController.h
+c000000004D97884C00000000000001F3
+t1301776460
+s499
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<Foundation/NSXMLParser.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/TreeBasedXML.h
+c000000004D97E08C0000000000000200
+t1301799052
+s512
+i<Foundation/Foundation.h>
+i<Foundation/NSTask.h>
+i<Foundation/NSXMLDTD.h>
+i<Foundation/NSXMLDTDNode.h>
+i<Foundation/NSXMLDocument.h>
+i<Foundation/NSXMLElement.h>
+i<Foundation/NSXMLNode.h>
+i<Foundation/NSXMLNodeOptions.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/TreeBasedXML.m
+c000000004D97E19A000000000000043F
+t1301799322
+s1087
+i"TreeBasedXML.h"
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/English.lproj/menuList.xml
+c000000004D977B2C00000000000001AD
+t1301773100
+s429
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib
+c000000004D71AB7400000000000077EC
+t1299295092
+s30700
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MenuXMLParser.h
+c000000004D76FC8B00000000000002AB
+t1299643531
+s683
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch
+c000000004D55924800000000000000BD
+t1297453640
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/SelectionXML.h
+c000000004D76E7B400000000000001AA
+t1299638196
+s426
+i<Foundation/Foundation.h>
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_aquarium.png
+c000000004D5596B6000000000012E8C4
+t1297454774
+s1239236
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_menu.png
+c000000004D558CB50000000000001115
+t1297452213
+s4373
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app
+t1301800173
+s102
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist
+t1301800173
+s1174
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/MacOS/Prototype1
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/PkgInfo
+t1301800173
+s8
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/English.lproj/menuList.xml
+t1301800173
+s429
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/bg_aquarium.png
+t1301800173
+s1239236
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/bg_menu.png
+t1301800173
+s4373
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/img_btn.png
+t1301800173
+s5282
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/MenuXMLParser.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1.LinkFileList
+c000000004D97E4ED0000000000000356
+t1301800173
+s854
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1AppDelegate.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1ViewController.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/SelectionXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/TreeBasedXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/MenuXMLParser.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1.LinkFileList
+c000000004D97E4ED0000000000000350
+t1301800173
+s848
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1AppDelegate.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1ViewController.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/SelectionXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/TreeBasedXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/MenuXMLParser.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1.LinkFileList
+c000000004D97E4ED0000000000000362
+t1301800173
+s866
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1AppDelegate.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1ViewController.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/SelectionXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/TreeBasedXML.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/img_btn.png
+c000000004D558EE600000000000014A2
+t1297452774
+s5282
+
+N/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/main.m
+c000000004D5592480000000000000164
+t1297453640
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-auoklsamnmvlgqcwovusfbqvrrku/Prototype1_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-efsresebdvijqsemvnwrgtnzjsvb/Prototype1_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-gjhlisubkrfbocgwmzlsxgijdzwk/Prototype1_Prefix.pch.gch
+t2
+s0
+
+NPrototype1-Info.plist
+c000000004D55924700000000000004D6
+t1297453639
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323493186#323493186#0(99"[BEROR]No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).1(4@91"No architectures to compile for (ARCHS=, VALID_ARCHS=i386 ppc ppc64 ppc7400 ppc970 x86_64).323493186#18446744073709551615#0#0(1@0"0(0#1#0"8598813120#0"0#
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/MenuXMLParser.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../MenuXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1AppDelegate.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1ViewController.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/SelectionXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../SelectionXML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/TreeBasedXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/TreeBasedXML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/main.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/MenuXMLParser.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../MenuXMLParser.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1AppDelegate.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1ViewController.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1ViewController.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/SelectionXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../SelectionXML.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/TreeBasedXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/TreeBasedXML.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/main.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/MenuXMLParser.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../MenuXMLParser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1AppDelegate.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1ViewController.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../Classes/Prototype1ViewController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/SelectionXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/../SelectionXML.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/TreeBasedXML.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Classes/TreeBasedXML.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/main.o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib"
+s323492973.792465
+e323492975.695585
+r0
+xCompileXIB
+x/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib
+o2011-04-02 23:09:35.653 ibtool[12721:607] Unexpected SDK identifier macosx10.6
+o/* com.apple.ibtool.errors */
+o/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.6
+lSLF07#2@25"CompileXIB MainWindow.xib323492973#323492975#0(258"2011-04-02 23:09:35.653 ibtool[12721:607] Unexpected SDK identifier macosx10.6/* com.apple.ibtool.errors *//Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.61(4@66"ibtool failed with exception: Unexpected SDK identifier macosx10.6323492975#18446744073709551615#0#0(6@73"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib320987892#0#0#0#0#0"0(0#0#73"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib8612150368#409"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/MainWindow.nib" "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/MainWindow.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk1#
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/English.lproj/menuList.xml English.lproj/menuList.xml
+s323492973.815875
+e323492973.957079
+r1
+xCpResource
+xbuild/Debug/Prototype1.app/Contents/Resources/English.lproj/menuList.xml
+xEnglish.lproj/menuList.xml
+lSLF07#2@31"Copy English.lproj/menuList.xml323492973#323492973#0(0"0(0#0#85"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/English.lproj/menuList.xml8611709280#439"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/English.lproj/menuList.xml" "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/bg_aquarium.png bg_aquarium.png
+s323492973.814499
+e323492974.199370
+r1
+xCpResource
+xbuild/Debug/Prototype1.app/Contents/Resources/bg_aquarium.png
+xbg_aquarium.png
+lSLF07#2@20"Copy bg_aquarium.png323492973#323492974#0(0"0(0#0#74"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_aquarium.png8611900864#414"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_aquarium.png" "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources"0#
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/bg_menu.png bg_menu.png
+s323492973.811553
+e323492973.998689
+r1
+xCpResource
+xbuild/Debug/Prototype1.app/Contents/Resources/bg_menu.png
+xbg_menu.png
+lSLF07#2@16"Copy bg_menu.png323492973#323492973#0(0"0(0#0#70"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_menu.png8612106112#410"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/bg_menu.png" "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources"0#
+
+CCpResource build/Debug/Prototype1.app/Contents/Resources/img_btn.png img_btn.png
+s323492973.812777
+e323492973.998900
+r1
+xCpResource
+xbuild/Debug/Prototype1.app/Contents/Resources/img_btn.png
+ximg_btn.png
+lSLF07#2@16"Copy img_btn.png323492973#323492973#0(0"0(0#0#70"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/img_btn.png8612076608#410"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/img_btn.png" "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/MacOS/Prototype1" normal "x86_64 i386 ppc"
+r0
+
+CLd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/MacOS/Prototype1" normal x86_64
+r0
+
+CLd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/i386/Prototype1" normal i386
+r0
+
+CLd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/ppc/Prototype1" normal ppc
+r0
+
+CLd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Objects-normal/x86_64/Prototype1" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist" Prototype1-Info.plist
+s323492973.786611
+e323492973.792356
+r1
+xProcessInfoPlistFile
+x/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist
+xPrototype1-Info.plist
+lSLF07#2@29"Process Prototype1-Info.plist323492973#323492973#0(0"0(0#0#80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1-Info.plist8612350144#385"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    builtin-infoPlistUtility Prototype1-Info.plist -genpkginfo "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-auoklsamnmvlgqcwovusfbqvrrku/Prototype1_Prefix.pch.gch Prototype1_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s323493000.005582
+e323493004.745530
+r0
+xProcessPCH
+x/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-auoklsamnmvlgqcwovusfbqvrrku/Prototype1_Prefix.pch.gch
+xPrototype1_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@32"Precompile Prototype1_Prefix.pch323493000#323493004#0(135"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory323493001#0#135#0(6@80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch319146440#7#0#7#0#28"*: No such file or directory0(0#0#80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch8615830464#1636"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G4 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-generated-files.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-own-target-headers.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-all-target-headers.hmap" -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-project-headers.hmap" "-F/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/include" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources/ppc" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources" -c "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch" -o /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-auoklsamnmvlgqcwovusfbqvrrku/Prototype1_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-efsresebdvijqsemvnwrgtnzjsvb/Prototype1_Prefix.pch.gch Prototype1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323492975.695812
+e323493000.076473
+r0
+xProcessPCH
+x/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-efsresebdvijqsemvnwrgtnzjsvb/Prototype1_Prefix.pch.gch
+xPrototype1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@32"Precompile Prototype1_Prefix.pch323492975#323493000#0(135"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory323492983#0#135#0(6@80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch319146440#7#0#7#0#28"*: No such file or directory0(0#0#80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch8612976032#1632"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-generated-files.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-own-target-headers.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-all-target-headers.hmap" -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-project-headers.hmap" "-F/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/include" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources/x86_64" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources" -c "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch" -o /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-efsresebdvijqsemvnwrgtnzjsvb/Prototype1_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-gjhlisubkrfbocgwmzlsxgijdzwk/Prototype1_Prefix.pch.gch Prototype1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323492975.697088
+e323493000.005376
+r0
+xProcessPCH
+x/var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-gjhlisubkrfbocgwmzlsxgijdzwk/Prototype1_Prefix.pch.gch
+xPrototype1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@32"Precompile Prototype1_Prefix.pch323492975#323493000#0(135"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory323492983#0#135#0(6@80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch319146440#7#0#7#0#28"*: No such file or directory0(0#0#80"/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch8618775872#1628"    cd "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-generated-files.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-own-target-headers.hmap" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-all-target-headers.hmap" -iquote "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/Prototype1-project-headers.hmap" "-F/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/include" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources/i386" "-I/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Prototype1.build/Debug/Prototype1.build/DerivedSources" -c "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/Prototype1_Prefix.pch" -o /var/folders/PG/PGPYM+muHUmtK5yMqU4gv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prototype1_Prefix-gjhlisubkrfbocgwmzlsxgijdzwk/Prototype1_Prefix.pch.gch1#
+
+CTouch "/Users/Ruby/Projects/MS Project/iPad/Prototype1/Prototype1/build/Debug/Prototype1.app"
+r0
+

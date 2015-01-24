@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu label="menu" sel="no" index="0">
+	<item label="electronics" sel="no" index="0">
+		<item label="boys" sel="no" index="0"></item>
+		<item label="girls" sel="no" index="1"></item>
+	</item>
+	<item label="apparel" sel="no" index="1">
+		<item label="boys" sel="no" index="0"></item>
+		<item label="girls" sel="no" index="1"></item>
+	</item>
+</menu>
+

@@ -1,0 +1,13 @@
+<menu>
+	<selection>
+		<label>MenuA</label>
+		<action>A</action>
+		<audio></audio>
+	</selection>
+	<selection>
+		<label>MenuB</label>
+		<action>B</action>
+		<audio></audio>
+	</selection>
+</menu>
+

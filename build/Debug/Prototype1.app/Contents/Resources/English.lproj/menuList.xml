@@ -1,0 +1,14 @@
+<menu>
+	<item label="apparel" audio="apparel.wav">
+		<item label="boys" audio="boys.wav">
+			<item label="pants" audio="pants.wav">
+				<item label="black" audio="black.wav"></item>
+				<item label="blue" audio="blue.wav"></item>
+				<item label="brown" audio="brown.wav"></item>
+				<item label="gray" audio="gray.wav"></item>
+				<item label="white" audio="white.wav"></item>									
+			</item>			
+		</item>
+	</item>
+</menu>
+
